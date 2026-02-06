@@ -10,3 +10,14 @@ We still want to avoid topics like:
 - training
 - support
 All of that will be clarified by the technician.
+
+Ad Copy examples: 
+- A better system in one visit.
+- Switch to Linux
+- Make your computer feel new again.
+- Ready for a better desktop?
+- One step to a better computer.
+- Simple switch. Big difference.
+- Better desktop, one phone call.
+- Linux on your computer today.
+- 
