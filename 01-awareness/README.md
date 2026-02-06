@@ -8,4 +8,12 @@ At this point we don't mention that Linux is free, fast, light on resources, ope
 
 **We don't even need to say it is Linux.** We just want to show them beautiful desktops.
 
+Possible ad copy:
+- Designed to feel right
+- Where simplicity lives
+- Elegance, without effort
+- A better desktop experience
+- Space to think
+- Nothing in the way
+
 We want to use recognizable elements.
